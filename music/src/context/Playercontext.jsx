@@ -9,7 +9,7 @@ const PlayerContextProvider=(props)=>
     const seekBg=useRef();
     const seekBar=useRef();
     
-    const url='http://localhost:4000';
+    const url='https://melofy-backend-69ui.onrender.com';
     const [songsData,setSongData]=useState([]);
     const [albumsData,setAlbumData]=useState([]);
     const [track,setTrack]=useState(songsData[0]);
