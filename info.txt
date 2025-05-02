@@ -1,0 +1,2 @@
+here we used cloudinary to store image and audio in backend
+cloudinary =shivakumarmm17@gmail.com gmail
