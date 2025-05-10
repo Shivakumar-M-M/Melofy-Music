@@ -7,9 +7,9 @@ Melofy is a dynamic and responsive full-stack music streaming platform that allo
 🚀 Features
 🎧 User Features:
 
-       Browse and stream songs
-
-       Clean, modern and responsive UI
+    Browse and stream songs
+ 
+    Clean, modern and responsive UI
 
        Real-time song listing from MongoDB Atlas
 
