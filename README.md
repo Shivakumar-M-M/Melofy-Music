@@ -32,20 +32,20 @@ Melofy is a full-stack music streaming web application that allows users to list
 ---
 
 ## 📁 Folder Structure
+Melofy-Music/
+├── client/               # React frontend
+│   └── src/
+│       ├── components/   # Reusable components (Player, Navbar, etc.)
+│       ├── pages/        # Routes like Home and Admin
+│       └── App.js
+├── server/               # Node + Express backend
+│   ├── models/           # Mongoose models (e.g., Song)
+│   ├── routes/           # API routes for songs and admin actions
+│   ├── controllers/      # Logic to handle routes
+│   └── server.js         # Entry point of backend
+├── .env                  # Environment variables (Mongo URI, etc.)
+└── README.md             # This file
 
-	Melofy-Music/
-├── client/ # React frontend
-│ └── src/
-│ ├── components/ # Reusable components (Player, Navbar, etc.)
-│ ├── pages/ # Routes like Home and Admin
-│ └── App.js
-├── server/ # Node + Express backend
-│ ├── models/ # Mongoose models (e.g., Song)
-│ ├── routes/ # API routes for songs and admin actions
-│ ├── controllers/ # Logic to handle routes
-│ └── server.js # Entry point of backend
-├── .env # Environment variables (Mongo URI, etc.)
-└── README.md # This file
 
 
  1️⃣ Clone the repository
