@@ -62,7 +62,7 @@ Melofy-Music/
  ---
   3️⃣ Setup the Frontend
   
-        cd client
+	cd client
  	npm install
 	npm start
   ---
