@@ -25,7 +25,6 @@ Melofy is a full-stack music streaming web application that allows users to list
 - **Frontend:** React.js, HTML5, CSS3
 - **Backend:** Node.js, Express.js
 
-- 
 - **Database:** MongoDB Atlas (Cloud Database)
 - **(Optional) Media Storage:** Cloudinary or AWS S3
 
@@ -58,7 +57,7 @@ Melofy-Music/
 	
 	cd server
 	npm install
-	# Create a .env file with your MongoDB URI
+	Create a .env file with your MongoDB URI
 	npm start
  ---
   3️⃣ Setup the Frontend
@@ -71,3 +70,16 @@ Melofy-Music/
  
 	User interface: http://localhost:3000
 	Admin panel: http://localhost:3000/admin
+
+ 🔐 Environment Variables
+  Create a .env file inside the server/ directory:
+  
+ 	MONGO_URI=your_mongodb_atlas_connection_string
+	PORT=5000
+
+
+✍️ Author
+ Shivakumar M M (Shivu)
+“Melofy: Because good code deserves a great soundtrack.”
+
+ GitHub: @Shivakumar-M-M
