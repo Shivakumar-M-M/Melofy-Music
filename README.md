@@ -53,8 +53,12 @@ Melofy is a full-stack music streaming web application that allows users to list
 
 ```bash
 	git clone https://github.com/Shivakumar-M-M/Melofy-Music.git
-cd Melofy-Music
+	cd Melofy-Music
 
+---
 
+### 1️⃣ Clone the repository
 
-### 2️⃣ Setup the Backend
+```bash
+	git clone https://github.com/Shivakumar-M-M/Melofy-Music.git
+	cd Melofy-Music
