@@ -48,17 +48,26 @@ Melofy is a full-stack music streaming web application that allows users to list
 └── README.md # This file
 
 
+ 1️⃣ Clone the repository
 
-### 1️⃣ Clone the repository
-
-```bash
 	git clone https://github.com/Shivakumar-M-M/Melofy-Music.git
 	cd Melofy-Music
 
 ---
-
-### 1️⃣ Clone the repository
-
-```bash
-	git clone https://github.com/Shivakumar-M-M/Melofy-Music.git
-	cd Melofy-Music
+ 2️⃣ Setup the Backend
+	
+	cd server
+	npm install
+	# Create a .env file with your MongoDB URI
+	npm start
+ ---
+  3️⃣ Setup the Frontend
+  
+        cd client
+ 	npm install
+	npm start
+  ---
+ 4️⃣ Open in Browser
+ 
+	User interface: http://localhost:3000
+	Admin panel: http://localhost:3000/admin
