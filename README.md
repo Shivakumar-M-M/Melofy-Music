@@ -3,32 +3,39 @@ Melofy is a dynamic and responsive full-stack music streaming platform that allo
 
 “Built with code, powered by beats — crafted with care by Shivu.”
 
+ ✅ Project Overview
+🎧 Full-stack music streaming app
 
-🚀 Features
-🎧 User Features:
+🛠 Built with MERN Stack (MongoDB, Express, React, Node)
 
-    Browse and stream songs
- 
-    Clean, modern and responsive UI
+☁️ Uses MongoDB Atlas for cloud data storage
 
-       Real-time song listing from MongoDB Atlas
+👨‍💻 Includes Admin panel for uploading and managing songs
 
-🛠️ Admin Features:
+🔍 Key Features
+User Side:
 
-       Upload new songs via a secure form
+Stream songs with a clean UI
 
-       Add song metadata (title, artist, genre, etc.)
+Browse dynamic playlist from database
 
-       View and manage uploaded content
+Responsive design for all devices
 
-☁️ Tech Stack:
+Admin Side:
 
-       MongoDB Atlas – Cloud database for storing songs and metadata
+Secure form to upload songs and metadata
 
-       Express.js – Backend REST API
+View, add, and manage songs in real-time
 
-       React.js – Frontend UI
+Integrated with backend API and MongoDB Atlas
 
-       Node.js – Server-side logic
+🧰 Tech Stack
+Frontend: React.js, HTML5, CSS3
 
-       (Optional: Cloudinary / 
+Backend: Node.js, Express.js
+
+Database: MongoDB Atlas
+
+File Storage (optional): Cloudinary or AWS S3
+
+State Management: React Hooks / Context API
